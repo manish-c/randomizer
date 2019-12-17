@@ -1,6 +1,6 @@
 # Randomizer App
 
-A random string generator app using localStorage.
+A random string generator app which adds user's options and give random option using localStorage.
 
 
 ## Technologies Used
